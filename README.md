@@ -1,14 +1,14 @@
 # ItsChris Jang
-Hi, I'm Chris Jang(JunHwan Jang).
+Hi, I'm Chris Jang(JunHwan Jang).<br/>
 I'm experienced with a wide range of back-end technologies, specialized primarily in nodejs, JAVA.
 
 ### Skills :
 node.js, Java, JavaScript, MySQL, Oracle, Spring, JSP
 
 ### Education :
-The Academic Credit Bank System
-Bachelor Of Science In Computer Science
-2019.03 – 2022.02
+The Academic Credit Bank System<br/>
+Bachelor Of Science In Computer Science<br/>
+2019.03 – 2022.02<br/>
 
 ### Certificate :
 - SQL DEVELOPER(sql 개발자)
