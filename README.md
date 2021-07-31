@@ -1,4 +1,4 @@
-# ItsChris Jang
+# ItsChrisJang
 Hi, I'm Chris Jang(JunHwan Jang).<br/>
 I'm experienced with a wide range of back-end technologies, specialized primarily in nodejs, JAVA.
 
@@ -8,7 +8,7 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 ### Education :
 The Academic Credit Bank System<br/>
 Bachelor Of Science In Computer Science<br/>
-GPA : 3.87 (Out of 4.5)
+GPA : 3.87 (Out of 4.5)<br/>
 2019.03 – 2022.02
 
 ### Certificate :
