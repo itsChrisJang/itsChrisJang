@@ -9,7 +9,7 @@ I'm experienced with a wide range of front-end technologies, specialized primari
 The Academic Credit Bank System<br/>
 Bachelor Of Science In Computer Science<br/>
 GPA : 3.87 (Out of 4.5)<br/>
-2019.03 – 2022.02
+2019.03 – 2022.09
 
 ### Certificate :
 - 정보처리기사 필기<br/>
@@ -27,8 +27,8 @@ Information & Communication Qualification Association of Korea<br/>
 2021-03 
 
 ### Career :
-- 해양에너지 인사관리사이트 .net => java 이관작업 <br/>
-DATE : 2021.08 ~ : <br/>
+- 해*에너지 사내 HR : asp.net => java 이관 Project Leader <br/>
+DATE : 2021.08 ~ : 2022.02<br/>
 WITH JAVA, javascript, MSSQL
 
 - 봉제협업관리시스템(SSM) 봉제 추적 및 프린팅 HYBRID APP 개발<br/>
