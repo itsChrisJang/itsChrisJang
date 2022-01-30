@@ -36,12 +36,12 @@ USING BIXOLON CORDOVA PLUGIN<br/>
 DATE : 2021.05.11 ~ : 2021.07.30<br/>
 WITH node.js, javascript, MYSQL
 
-- 화담숲 홈페이지 리뉴얼<br/>
+- 화*숲 홈페이지 리뉴얼<br/>
 DATE : 2021.04.01 ~ 2021.04.30<br/>
 LG CNS HWADAMSUP Homepage Renewal<br/>
 WITH JSP, ORACLE, EGOVFRAMEWORK, JDBC, TOMCAT
 
-- 화담숲사이트로 소비자만족도 조사 및 관리자 페이지 이관<br/>
+- 화*숲사이트로 소비자만족도 조사 및 관리자 페이지 이관<br/>
 DATE : 2021.02.03~ 2021.03.31 <br/>
 LG CNS HWADAMSUP customer satisfaction score survey and managing WEB<br/>
 WITH JSP, ORACLE, EGOVFRAMEWORK, JDBC, TOMCAT
