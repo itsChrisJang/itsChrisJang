@@ -1,6 +1,6 @@
 # ItsChrisJang
 Hi, I'm Chris Jang(JunHwan Jang).<br/>
-I'm experienced with a wide range of front-end technologies, specialized primarily in reactjs.
+I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
 
 ### Skills :
 #### Java, JavaScript, MySQL, Oracle, Mssql, Spring, JSP
