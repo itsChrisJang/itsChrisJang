@@ -2,16 +2,16 @@
 Hi, I'm Chris Jang(JunHwan Jang).<br/>
 I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
 
-### Skills :
+## Skills :
 #### Java, JavaScript, MySQL, Oracle, Mssql, Spring, JSP
 
-### Education :
+## Education :
 The Academic Credit Bank System<br/>
 Bachelor Of Science In Computer Science<br/>
 GPA : 3.87 (Out of 4.5)<br/>
 2019.03 – 2022.09
 
-### Certificate :
+## Certificate :
 - 정보처리기사 필기<br/>
 2021-08
 
@@ -26,12 +26,12 @@ KOREA Data Agency<br/>
 Information & Communication Qualification Association of Korea<br/>
 2021-03 
 
-### Career :
-- 해양에너지 e-HR 시스템 재구축 PL<br/>
- DATE : 2021-08 ~ 2022-03<br/>
- Skill Keyword : JAVA, Spring, JSP, MSSQL, egov, tomcat<br/>
- 급여, 인사, 복리후생 파트 개발<br/>
- 기존 asp.net 기반 e-HR 시스템을 JAVA 기반 시스템으로 재구축<br/>
+## Career :
+# 해양에너지 e-HR 시스템 재구축 PL<br/>
+- DATE : 2021-08 ~ 2022-03<br/>
+- Skill Keyword : JAVA, Spring, JSP, MSSQL, egov, tomcat<br/>
+- 급여, 인사, 복리후생 파트 개발<br/>
+- 기존 asp.net 기반 e-HR 시스템을 JAVA 기반 시스템으로 재구축<br/>
  MVC2 패턴 적용<br/>
  Linux와 tomcat 을 사용하여 개발, 운영서버 인프라 구축<br/>
  현업 요구 사항 파악을 위해 비즈니스 회의 참여<br/>
