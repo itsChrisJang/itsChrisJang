@@ -27,7 +27,7 @@ Information & Communication Qualification Association of Korea<br/>
 2021-03 
 
 ## Career :
-# 해양에너지 e-HR 시스템 재구축 PL<br/>
+### 해양에너지 e-HR 시스템 재구축 PL<br/>
 - DATE : 2021-08 ~ 2022-03<br/>
 - Skill Keyword : JAVA, Spring, JSP, MSSQL, egov, tomcat<br/>
 - 급여, 인사, 복리후생 파트 개발<br/>
