@@ -6,6 +6,7 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 #### Java, JavaScript, MySQL, Oracle, Mssql, Spring, JSP
 ### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 ### DevOps
 
