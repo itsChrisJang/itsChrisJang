@@ -1,9 +1,12 @@
 # ItsChrisJang
+### Introduction
 Hi, I'm Chris Jang(JunHwan Jang).<br/>
 I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
 
+### Contact
+Email : qiiopasd1@gmail.com
+
 ## Tech Skills :
-#### Java, JavaScript, MySQL, Oracle, Mssql, Spring, JSP
 ### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -22,19 +25,12 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-
-### Tools
+<br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qiiopasd)](https://solved.ac/qiiopasd)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsChrisJang)](https://github.com/itsChrisJang/github-readme-stats)
-
-## Education :
-The Academic Credit Bank System<br/>
-Bachelor Of Science In Computer Science<br/>
-GPA : 3.87 (Out of 4.5)<br/>
-2019.03 – 2022.09
 
 ## Certificate :
 - 정보처리기사 필기<br/>
@@ -94,4 +90,10 @@ Information & Communication Qualification Association of Korea<br/>
 - Skill Keyword : JAVA, Spring, JSP, MYSQL, egov, tomcat<br/>
 - 백엔드 개발자로서 Out of Memory, 레거시 코드, 사이드 이펙트, 스파게티 코드, 성능 튜닝 등 다양한 문제를 경험<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+## Education :
+The Academic Credit Bank System<br/>
+Bachelor Of Science In Computer Science<br/>
+GPA : 3.87 (Out of 4.5)<br/>
+2019.03 – 2022.09
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
