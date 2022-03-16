@@ -2,8 +2,16 @@
 Hi, I'm Chris Jang(JunHwan Jang).<br/>
 I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
 
-## Skills :
+## Tech Skills :
 #### Java, JavaScript, MySQL, Oracle, Mssql, Spring, JSP
+### Back-End
+<img src="https://img.shields.io/badge/#007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+
+### DevOps
+
+
+### Tools
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qiiopasd)](https://solved.ac/qiiopasd)
@@ -73,3 +81,5 @@ Information & Communication Qualification Association of Korea<br/>
 - DATE : 2020-12 ~ 2021-08<br/>
 - Skill Keyword : JAVA, Spring, JSP, MYSQL, egov, tomcat<br/>
 - 백엔드 개발자로서 Out of Memory, 레거시 코드, 사이드 이펙트, 스파게티 코드, 성능 튜닝 등 다양한 문제를 경험<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
