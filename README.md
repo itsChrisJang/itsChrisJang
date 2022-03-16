@@ -25,10 +25,10 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 
 ### Tools
 
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qiiopasd)](https://solved.ac/qiiopasd)
-[![Anurag's GitHub stats(https://github-readme-stats.vercel.app/api?username=itsChrisJang)](https://github.com/itsChrisJang/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsChrisJang)](https://github.com/itsChrisJang/github-readme-stats)
 
 ## Education :
 The Academic Credit Bank System<br/>
