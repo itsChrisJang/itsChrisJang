@@ -4,8 +4,10 @@ Hi, I'm Chris Jang(JunHwan Jang).<br/>
 I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
 
 ### Contact
-Email : qiiopasd1@gmail.com
-Notion : https://flawless-plough-56d.notion.site/f49e86dba43246b3846bd9db7a8404d5
+Email : qiiopasd1@gmail.com <br/>
+Portfolio : https://flawless-plough-56d.notion.site/f49e86dba43246b3846bd9db7a8404d5 <br/>
+Devlog : https://devlogofchris.tistory.com/ <br/>
+
 ## Tech Skills :
 ### Back-End
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
