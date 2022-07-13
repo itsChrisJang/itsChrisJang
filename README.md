@@ -5,9 +5,9 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 
 ### Contact
 Email : qiiopasd1@gmail.com <br/>
-Portfolio : https://flawless-plough-56d.notion.site/f49e86dba43246b3846bd9db7a8404d5 <br/>
+Portfolio : https://bit.ly/3yzExUU <br/>
 Devlog : https://devlogofchris.tistory.com/ <br/>
-StudyLog : https://flawless-plough-56d.notion.site/Chris-s-Studying-Log-98a0fbd2825f4c2bb56d600029674c0c
+StudyLog : https://bit.ly/3uM0Vtg
 
 ## Tech Skills :
 ### Back-End
