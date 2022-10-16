@@ -2,7 +2,6 @@
 ### Introduction
 Hi, I'm Chris Jang(JunHwan Jang).<br/>
 I'm experienced with a wide range of back-end technologies, specialized primarily in JAVA.
-current : Meshkorea
 
 ### Contact
 Email : qiiopasd1@gmail.com <br/>
