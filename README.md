@@ -5,7 +5,7 @@ I'm experienced with a wide range of back-end technologies, specialized primaril
 
 ### Contact
 Email : qiiopasd1@gmail.com <br/>
-Portfolio : https://bit.ly/3yzExUU <br/>
+Portfolio : [https://bit.ly/3yzExUU](https://drive.google.com/file/d/1xjYZ5h4T3W2XLVbiy-9t7DbYWKiySH8s/view?usp=sharing) <br/>
 Devlog : https://devlogofchris.tistory.com/ <br/>
 StudyLog : https://bit.ly/3uM0Vtg
 
