@@ -1,7 +1,7 @@
 ## Introduction
 🧑🏽‍🦲 JUN HWAN(CHRIS) JANG<br/>
 🎓 Currently pursuing an MEng in Convergence Information Technology (AI Major) at Konkuk University (September 2024 - February 2027)<br/>
-🎓 Graduated from Dongyang Future University with a BS in Computer Software Engineering<br/>
+🎓 Graduated from Dongyang Mirae University with a BS in Computer Software Engineering<br/>
 💪 I'm experienced with a wide range of back-end technologies, specialized primarily in Spring Webflux, java.<br/>
 
 ### Contact
