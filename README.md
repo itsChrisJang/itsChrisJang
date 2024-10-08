@@ -3,6 +3,7 @@
 🎓 Currently pursuing an MEng in Convergence Information Technology (AI Major) at Konkuk University (September 2024 - February 2027)<br/>
 🎓 BS in Computer Software Engineering<br/>
 💪 I'm experienced with a wide range of back-end technologies, specialized primarily in Spring Webflux, java.<br/>
+💻 SIPE(IT Community) (October 2024 ~ ing)
 
 ### Contact
 Email : qiiopasd1@gmail.com <br/>
