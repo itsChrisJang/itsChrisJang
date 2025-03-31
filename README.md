@@ -1,19 +1,53 @@
-## Introduction
-🧑🏽‍🦲 JUN HWAN(CHRIS) JANG<br/>
-🎓 Currently pursuing an MEng in Convergence Information Technology (AI Major) at Konkuk University (September 2024 - February 2027)<br/>
-🎓 BS in Computer Software Engineering<br/>
-💪 I'm experienced with a wide range of back-end technologies, specialized primarily in Spring Webflux, java.<br/>
-💻 SIPE(IT Community) (October 2024 ~ ing)
+# 👨‍💻 JUN HWAN (CHRIS) JANG
 
-### Contact
-Email : qiiopasd1@gmail.com <br/>
-Portfolio : https://drive.google.com/file/d/1xjYZ5h4T3W2XLVbiy-9t7DbYWKiySH8s/view?usp=sharing <br/>
-Devlog :  <br/>
-https://chris-jang.medium.com/ <br/>
-https://devlogofchris.tistory.com/ <br/>
-StudyLog : https://bit.ly/3uM0Vtg
+🎓 **M.Eng in Convergence Information Technology (AI Major)**  
+Konkuk University, Sep 2024 – Feb 2027  
+🎓 **B.S. in Computer Software Engineering**
 
+💼 **Back-end Developer**  
+Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FitsChrisJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+## 💼 Career
+
+| Company        | Duration         |
+|----------------|------------------|
+| **TONYMOLY**   | 2024.03 ~        |
+| **Lunasoft**   | 2023.02 ~ 2024.03|
+| **Mesh Korea (Vroong)** | 2022           |
+| **Startup**    | 2020 ~ 2022      |
+
+---
+
+## 🧑‍💻 Community & Group
+
+- 🔗 [**SIPE** (IT Community)](https://sipe.team/) *(2024.10 ~ ing)*
+- 🔗 [**자바카페**](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5) *(2024.09 ~ ing)*
+- 🔗 [**달레(Dale)**](https://www.dalestudy.com/) *(2025.03 ~ ing)*
+
+---
+
+## 🛠️ Technical Activities & Blog Posts
+
+### 🔒 Distributed System
+- [**Redis Lettuce로 구현하는 안전한 레디스 분산락 — 실시간 정합성 보장**](https://tonymoly-tech.medium.com/redis-lettuce-distributed-lock-for-data-integrity-4bc5c8623f05)
+
+### ⚡ Performance Optimization
+- [**토니모리 공식몰 API 응답 시간 2차 개선기 (SQL 실행계획 최적화 및 Index)**](https://tonymoly-tech.medium.com/tonymoly-api-query-optimization-ae84a4ca4f8b)
+- [**토니모리 공식몰 API 응답시간 개선기 1차 (성능 최적화)**](https://chris-jang.medium.com/test-c0c0a158d72f)
+
+---
+
+## 🔗 Contact & Links
+
+- 📧 **Email**: qiiopasd1@gmail.com  
+- 📄 **[Portfolio](https://drive.google.com/file/d/1xjYZ5h4T3W2XLVbiy-9t7DbYWKiySH8s/view?usp=sharing)**  
+- ✍️ **Devlog**:  
+  - [Medium](https://chris-jang.medium.com/)  
+  - [Tistory](https://devlogofchris.tistory.com/)  
+- 📚 **[Study Log](https://bit.ly/3uM0Vtg)**
+
+---
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FitsChrisJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
