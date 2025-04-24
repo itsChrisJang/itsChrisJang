@@ -16,7 +16,7 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 | **TONYMOLY**   | 2024.03 ~        |
 | **Lunasoft**   | 2023.02 ~ 2024.03|
 | **Mesh Korea (Vroong)** | 2022           |
-| **Startup**    | 2020 ~ 2022      |
+| **Startup**    | 2020 ~ 2022.08      |
 
 ---
 
@@ -49,5 +49,3 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 - 📚 **[Study Log](https://bit.ly/3uM0Vtg)**
 
 ---
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FitsChrisJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
