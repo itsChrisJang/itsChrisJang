@@ -30,6 +30,9 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 
 ## 🛠️ Technical Activities & Blog Posts
 
+### 📀 Cache
+- [**Redis 캐시로 몰려드는 트래픽을 견디다 — 토니모리 공식몰 성능 개선기**](https://tonymoly-tech.medium.com/redis-cache-tonymoly-performance-c5a5e18ae83c)
+
 ### 🔒 Distributed System
 - [**Redis Lettuce로 구현하는 안전한 레디스 분산락 — 실시간 정합성 보장**](https://tonymoly-tech.medium.com/redis-lettuce-distributed-lock-for-data-integrity-4bc5c8623f05)
 
