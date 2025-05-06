@@ -22,9 +22,9 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 
 ## 🧑‍💻 Community & Group
 
-- 🔗 [**SIPE** (IT Community)](https://sipe.team/) *(2024.10 ~ ing)*
+- 🔗 [**CMC 17th**](https://cmc.makeus.in/) *(2025.05 ~ ing)*
+- 🔗 [**SIPE 3rd, 4th**](https://sipe.team/) *(2024.10 ~ ing)*
 - 🔗 [**자바카페**](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5) *(2024.09 ~ ing)*
-- 🔗 [**달레(Dale)**](https://www.dalestudy.com/) *(2025.03 ~ ing)*
 
 ---
 
