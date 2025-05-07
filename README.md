@@ -37,7 +37,7 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 - [**Redis Lettuce로 구현하는 안전한 레디스 분산락 — 실시간 정합성 보장**](https://tonymoly-tech.medium.com/redis-lettuce-distributed-lock-for-data-integrity-4bc5c8623f05)
 
 ### ⚡ Performance Optimization
-- [**토니모리 공식몰 API 응답 시간 2차 개선기 (SQL 실행계획 최적화 및 Index)**](https://tonymoly-tech.medium.com/tonymoly-api-query-optimization-ae84a4ca4f8b)
+- [**토니모리 공식몰 API 응답시간 개선기 2차 (SQL 실행계획 최적화 및 Index)**](https://tonymoly-tech.medium.com/tonymoly-api-query-optimization-ae84a4ca4f8b)
 - [**토니모리 공식몰 API 응답시간 개선기 1차 (성능 최적화)**](https://chris-jang.medium.com/test-c0c0a158d72f)
 
 ---
