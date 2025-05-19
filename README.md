@@ -1,6 +1,6 @@
 # 👨‍💻 JUN HWAN (CHRIS) JANG
 
-🎓 **M.Eng in Convergence Information Technology (AI Major)**  
+🎓 **M.Eng in Convergence Information Technology**  
 Konkuk University, Sep 2024 – Feb 2027  
 🎓 **B.S. in Computer Software Engineering**
 
@@ -25,9 +25,9 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 🔗 [**Guro Youth Mentoring**](https://www.guro.go.kr/www/selectBbsNttView.do?bbsNo=662&nttNo=218118&&pageUnit=10&searchCnd=SJ&searchKrwd=%EC%B2%AD%EB%85%84&key=1790&pageIndex=1) BACK-END ENGINEERING MENTOR *(2025.05 ~ ing)* <br/>
 🔗 [**CMC 17th**](https://cmc.makeus.in/) SERVER *(2025.05 ~ ing)* <br/>
 🔗 [**SIPE 4th**](https://sipe.team/) SIPER *(2025.04 ~ ing)* <br/>
-🔗 [**JAVACAFE 2025 H1**](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5) STUDY GROUP MEMBER *(2025.03 ~ ing)* <br/>
+🔗 [**JAVACAFE 2025 H1**](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5) MEMBER *(2025.03 ~ ing)* <br/>
 🔗 [**SIPE 3rd**](https://sipe.team/) SIPER *(2024.10 ~ 2025.02)* <br/>
-🔗 [**JAVACAFE 2024 H2**](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5) STUDY GROUP MEMBER *(2024.09 ~ 2024.12)* <br/>
+🔗 [**JAVACAFE 2024 H2**](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5) MEMBER *(2024.09 ~ 2024.12)* <br/>
 
 ---
 
@@ -48,9 +48,9 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 ## 🔗 Contact & Links
 
 - 📧 **Email**: qiiopasd1@gmail.com  
-- 📄 **[Portfolio](https://drive.google.com/file/d/1xjYZ5h4T3W2XLVbiy-9t7DbYWKiySH8s/view?usp=sharing)**  
+- 📄 **[Portfolio](https://flawless-plough-56d.notion.site/_-6689449778ef47fc99ab98c1a974d998)**  
 - ✍️ **Devlog**:  
-  - [Medium](https://chris-jang.medium.com/)  
+  - [Medium](https://chris-jang.medium.com/list/engineering-6507a77522cd)  
   - [Tistory](https://devlogofchris.tistory.com/)  
 - 📚 **[Study Log](https://bit.ly/3uM0Vtg)**
 
