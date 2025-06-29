@@ -1,7 +1,6 @@
 # 👨‍💻 JUN HWAN (CHRIS) JANG
 
-🎓 **M.Eng in Convergence Information Technology**  
-Konkuk University, Sep 2024 – Feb 2027  
+🎓 **M.Eng Hanyang University in Computer Science, Sep 2025 – now**   
 🎓 **B.S. in Computer Software Engineering**
 
 💼 **Back-end Developer**  
