@@ -13,7 +13,7 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 | Company        | Duration         |
 |----------------|------------------|
 | **TONYMOLY**   | 2024.03 ~        |
-| **Lunasoft**   | 2023.02 ~ 2024.03|
+| **Blumn AI**   | 2023.02 ~ 2024.03|
 | **Mesh Korea (Vroong)** | 2022           |
 | **Startup**    | 2020 ~ 2022.08      |
 
