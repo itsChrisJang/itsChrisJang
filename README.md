@@ -55,3 +55,5 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 - 📚 **[Study Log](https://bit.ly/3uM0Vtg)**
 
 ---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/itschrisjang?theme=nord&font=Krub)
