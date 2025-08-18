@@ -30,7 +30,10 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 🔗 [**SIPE 3rd**](https://sipe.team/) SIPER *(2024.10 ~ 2025.02)* <br/>
 
 ---
+## 👨🏼‍💼 Technical Presentation
+🔗 [**대규모 동시성 이벤트에서의 데이터 정합성 : Redis 분산 락 실전 적용기**](https://4th-sadamcon.sipe.team/) [**(발표영상/업로드 대기)**](https://sipe.team/)<br/>
 
+---
 ## 🛠️ Technical Activities & Blog Posts
 
 ### 📀 Cache
