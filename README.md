@@ -31,7 +31,8 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 
 ---
 ## 👨🏼‍💼 Technical Presentation
-🔗 [**대규모 동시성 이벤트에서의 데이터 정합성 : Redis 분산 락 실전 적용기**](https://4th-sadamcon.sipe.team/) [**(발표영상/업로드 대기)**](https://sipe.team/)<br/>
+### [**SIPE 4TH CONFERENCE**(2025.08.02)](https://4th-sadamcon.sipe.team/) 
+- [**대규모 동시성 이벤트에서의 데이터 정합성 : Redis 분산 락 실전 적용기**](https://sipe.team/)
 
 ---
 ## 🛠️ Technical Activities & Blog Posts
