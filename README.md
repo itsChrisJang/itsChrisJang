@@ -23,10 +23,10 @@ Specialized in **Spring WebFlux** & **Spring** & **Java** & **redis**
 
 🔗 [**CodeIt Sprint Spring 5th Mentor**](https://sprint.codeit.kr/track/backend-spring?utm_source=boottent_paid&utm_medium=display&utm_content=spring&) BACK-END MENTOR *(2025.07 ~ ing)* <br/>
 🔗 [**Guro Youth Mentor**](https://www.guro.go.kr/www/selectBbsNttView.do?bbsNo=662&nttNo=218118&&pageUnit=10&searchCnd=SJ&searchKrwd=%EC%B2%AD%EB%85%84&key=1790&pageIndex=1) BACK-END MENTOR *(2025.05 ~ ing)* <br/>
-🔗 [**CMC 17th**](https://cmc.makeus.in/) SERVER *(2025.05 ~ ing)* <br/>
-🔗 [**SIPE 4th**](https://sipe.team/) SIPER *(2025.04 ~ ing)* <br/>
 🔗 [**JAVACAFE**](https://phantom-sycamore-adc.notion.site/6b9f59a73665403fb49e767a399314e5) MEMBER *(2024.09 ~ ing)* <br/>
 
+🔗 [**CMC 17th**](https://cmc.makeus.in/) SERVER *(2025.05 ~ 2025.08)* <br/>
+🔗 [**SIPE 4th**](https://sipe.team/) SIPER *(2025.04 ~ 2025.08)* <br/>
 🔗 [**SIPE 3rd**](https://sipe.team/) SIPER *(2024.10 ~ 2025.02)* <br/>
 
 ---
