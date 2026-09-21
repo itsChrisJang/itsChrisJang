@@ -1,6 +1,7 @@
 # 👨‍💻 JUN HWAN (CHRIS) JANG
 
-🎓 **M.Eng Hanyang University in Computer Science, Sep 2025 – now** 🎓 **B.S. in Computer Software Engineering**
+🎓 **M.Eng Hanyang University in Computer Science, Sep 2025 – now** <br/>
+🎓 **B.S. in Computer Software Engineering**
 
 💼 **Back-end Developer** Specialized in **Spring WebFlux** & **Spring Boot** & **Java** & **Redis** & **Kafka**
 
